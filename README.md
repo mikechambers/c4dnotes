@@ -1,5 +1,8 @@
 # c4dnotes
 
+General notes, tip and techniques for working in Cinema 4D.
+
+
   * spin edge
   * two / four triangles can be disolved into a quad.
   * use bevel in solid mode to add cut edges
