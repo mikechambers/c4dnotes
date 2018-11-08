@@ -55,6 +55,9 @@ Deleted selected edges. Similar to Melt command but also removes uncessecary poi
 
 ### Selection
 
+U - F : Fill selection
+U - K : Shrink selection
+
 ### Tips and Tricks
 
 #### Create a Circle inside a quads
