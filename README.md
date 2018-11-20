@@ -58,6 +58,11 @@ Deleted selected edges. Similar to Melt command but also removes uncessecary poi
 U - F : Fill selection
 U - K : Shrink selection
 
+### Subdivide
+
+U - S : Subdivides geometry
+
+
 ### Tips and Tricks
 
 #### Create a Circle inside a quads
